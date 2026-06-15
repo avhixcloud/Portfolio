@@ -1,2 +1,6 @@
-1. Portfolio
-http://127.0.0.1:5500/abhishek-pal-portfolio%20(1).html
+# Portfolio
+
+🌐 Live Demo: https://avhixcloud.github.io/Portfolio/
+
+## About
+I'm a student and aspiring software engineer with a strong interest in technology, AI/ML, and web development.
